@@ -1,8 +1,8 @@
-# QR-Code-Generator
+#
 This is a project that I saw on a livestream, and this is my attempt to reproduce it.
 
 
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center">  QR-Code-Generator </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
