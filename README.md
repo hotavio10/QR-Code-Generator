@@ -1,5 +1,5 @@
 #
-This is a project that I saw on a livestream, and this is my attempt to reproduce it.
+
 
 
 <h1 align="center">  QR-Code-Generator </h1>
@@ -25,19 +25,19 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript e JSON
-- [Node e NPM](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
-- [iMask](https://imask.js.org)
 
-## 💻 Projeto
+This project was developed with the following technologies:
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+- HTML
+-  CSS
+- JavaScript
+
+## 💻 Project
+
+This is a project that I saw on a livestream, and this is my attempt to reproduce it.
 
 ## 🔖 Layout
 
