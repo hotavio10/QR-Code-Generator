@@ -18,7 +18,7 @@ Projects created as a learning method.
 <br>
 
 <p align="center">
-  <img alt="QR Generator" src="./prinscreen.png" width="100%">
+  <img alt="QR Generator" src="/img/prinscreen.png" width="100%">
 </p>
 
 ## 🚀 technologies
