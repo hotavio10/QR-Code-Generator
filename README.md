@@ -37,7 +37,8 @@ This is a project that I saw on a livestream, and this is my attempt to reproduc
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+You can view the project layout through [THIS LINK]([https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate](https://hotavio10.github.io/QR-Code-Generator/)). 
 
 
 ---
